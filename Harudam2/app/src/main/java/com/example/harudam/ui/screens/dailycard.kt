@@ -98,7 +98,7 @@ fun TripItineraryScreen() {
             }
 
 
-            Spacer(Modifier.height(18.dp))
+            Spacer(Modifier.height(50.dp))
             Row(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.Center,
